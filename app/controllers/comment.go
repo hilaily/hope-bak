@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"blog/app/models"
+	"hope/app/models"
 
 	"github.com/revel/revel"
 )

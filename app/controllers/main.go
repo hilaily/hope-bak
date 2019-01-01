@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"blog/app/models"
-	"blog/app/service"
+	"hope/app/models"
+	"hope/app/service"
 
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/revel/revel"

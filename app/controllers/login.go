@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"blog/app/models"
-	"blog/app/routes"
-	"blog/app/support"
 	"encoding/json"
+	"hope/app/models"
+	"hope/app/routes"
+	"hope/app/support"
 	"strconv"
 	"time"
 

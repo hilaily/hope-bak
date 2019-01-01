@@ -1,7 +1,7 @@
 package models
 
 import (
-	"blog/app/support"
+	"hope/app/support"
 
 	"github.com/revel/revel"
 )

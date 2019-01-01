@@ -1,6 +1,6 @@
 package controllers
 
-import "blog/app/models"
+import "hope/app/models"
 
 var tagModel *models.Tag
 

@@ -1,8 +1,8 @@
 package config
 
 import (
-	"blog/app/models"
-	"blog/app/support"
+	"hope/app/models"
+	"hope/app/support"
 
 	"github.com/huichen/wukong/types"
 	"github.com/revel/config"

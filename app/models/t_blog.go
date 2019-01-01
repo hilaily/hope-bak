@@ -1,9 +1,9 @@
 package models
 
 import (
-	"blog/app/support"
 	"encoding/json"
 	"fmt"
+	"hope/app/support"
 	"time"
 
 	"github.com/revel/revel"
@@ -294,7 +294,6 @@ func (b *Blog) Update() (bool, error) {
 	}
 	return has > 0, err
 }
-
 
 // BatchDel to delete a batch of blog
 // 删除一批博客

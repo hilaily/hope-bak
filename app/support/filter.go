@@ -1,7 +1,7 @@
 package support
 
 import (
-	"blog/app/routes"
+	"hope/app/routes"
 
 	"github.com/revel/revel"
 )
